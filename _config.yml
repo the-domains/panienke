@@ -1,0 +1,28 @@
+name: panienke
+favicon: null
+layout_spectrum: 0.6467152708210051
+typography_spectrum: 0.6268853168003261
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.10065219481475651
+  lightness: 0.29692934174090624
+  saturation: 0.6614133268594742
+  rhythmicContrast: 0.9815004654228687
+purpose: []
