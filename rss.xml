@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[panienke]]></title>
+        <description><![CDATA[panienke]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Dec 2015 16:29:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ur mom]]></title>
+            <description><![CDATA[<article><h1>ur mom</h1><p>The path of a cosmonaut is not an easy, triumphant march to glory. 
+You have to get to know the meaning not just of joy but also of grief, 
+before being allowed in the spacecraft cabin.</p></article>]]></description>
+            <link>undefinedur-mom/index.html</link>
+            <guid isPermaLink="false">c58b5a15-95c9-4a3f-9938-c07bdf3bba35</guid>
+            <pubDate>Mon, 21 Dec 2015 16:28:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
